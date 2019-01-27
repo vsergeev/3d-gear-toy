@@ -23,7 +23,7 @@ This design exposes the following top-level parameters:
 
 This design addresses material shrinkage and printing accuracy discrepancies in the gear teeth by scaling the gear teeth with the parameter `TOP_GEAR_SCALE`, which ranges from 0.0-1.0 and defaults to 0.925. This parameter scales the width of the gear teeth along their reference diameter, where 1.0 is the nominal width. If you do encounter binding or slop, you can adjust `TOP_GEAR_SCALE` to compensate.
 
-**Design**: [Parametric Gear Toy v30.f3d](Parametric%20Gear%20Toy%20v30.f3d) (Fusion 360 Archive)
+**Design**: [Parametric Gear Toy v33.f3d](Parametric%20Gear%20Toy%20v33.f3d) (Fusion 360 Archive)
 
 **Design**: https://a360.co/2QdHual (A360)
 
